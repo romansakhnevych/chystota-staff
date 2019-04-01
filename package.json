@@ -1,0 +1,15 @@
+{
+  "name": "chystotastaff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Sakhnievych",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.4.19",
+    "telegraf": "^3.27.1"
+  }
+}
